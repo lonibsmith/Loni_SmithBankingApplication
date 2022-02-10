@@ -34,7 +34,7 @@ function Login(){
 
   return (
     <Card
-      bgcolor="Black"
+      bgcolor="Primary"
       header="Login"
       status={status}
       body={show ? (  
