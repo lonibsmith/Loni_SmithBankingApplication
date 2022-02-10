@@ -51,7 +51,7 @@ function Withdraw(){
 
   return (
     <Card
-      bgcolor="red"
+      bgcolor="Warning"
       header="Withdraw"
       status={status}
       body={show ? (  
