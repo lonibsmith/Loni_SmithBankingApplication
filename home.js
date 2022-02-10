@@ -2,7 +2,8 @@ document.body.style.backgroundImage = "url ('bank.jpg')";
 function Home(){
   return (
     <Card
-      txtcolor="Black"
+      bgcolor="Black"
+      txtcolor="White"
       header="Bad Bank"
       title="Banking Application, We take all your money!"
       text="Welcome to Bad Bank "
